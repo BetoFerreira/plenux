@@ -1,0 +1,90 @@
+[12-Jul-2019 02:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Contas' not found in /home2/seulug85/public_html/timoeventos/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/index.php on line 11
+[18-Jul-2019 17:55:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timo_eventos/app/views/formulario.php:178
+Stack trace:
+#0 /home2/seulug85/public_html/timo_eventos/app/views/formulario.php(178): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timo_eventos/app/views/formulario.php on line 178
+[18-Jul-2019 17:58:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timo_eventos/app/views/formulario.php:179
+Stack trace:
+#0 /home2/seulug85/public_html/timo_eventos/app/views/formulario.php(179): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timo_eventos/app/views/formulario.php on line 179
+[20-Jul-2019 02:41:49 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:42:34 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:44:45 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:44:46 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:44:52 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:45:24 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:46:21 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 02:49:02 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 02:49:34 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 02:51:16 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 02:55:42 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/mes.php on line 121
+[20-Jul-2019 02:55:52 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/mes.php on line 121
+[20-Jul-2019 02:58:20 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 122
+[20-Jul-2019 02:59:09 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 02:59:38 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:00:21 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:00:30 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:03:07 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:03:15 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:03:28 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:03:47 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[20-Jul-2019 03:03:59 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home2/seulug85/public_html/timoeventos/app/views/dia.php on line 121
+[24-Jul-2019 17:13:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:14:00 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:14:24 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:16:25 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:16:40 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:23:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:24:04 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:24:29 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:25:48 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:25:57 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:30:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:30:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:38:00 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:42:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:42:56 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:46:36 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 17:58:10 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[24-Jul-2019 18:02:09 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[25-Jul-2019 13:47:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 8
+[05-Sep-2019 20:05:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home2/seulug85/public_html/timoeventos/app/views/nomes.php:140
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/nomes.php(140): PDO->__construct('mysql:host=loca...', 'root', 'moodle@123')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 140
+[05-Sep-2019 20:21:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timoeventos/app/views/formulario.php:206
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/formulario.php(206): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/formulario.php on line 206
+[05-Sep-2019 20:22:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timoeventos/app/views/formulario.php:169
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/formulario.php(169): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/formulario.php on line 169
+[05-Sep-2019 20:28:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timoeventos/app/views/formulario.php:169
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/formulario.php(169): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/formulario.php on line 169
+[05-Sep-2019 20:33:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/seulug85/public_html/timoeventos/app/views/editar.php:8
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/editar.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home2/seulug85/public_html/timoeventos/app/views/formulario.php(282): include('/home2/seulug85...')
+#2 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/editar.php on line 8
+[05-Sep-2019 21:05:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home2/seulug85/public_html/timoeventos/app/views/nomes.php:89
+Stack trace:
+#0 /home2/seulug85/public_html/timoeventos/app/views/nomes.php(89): PDO->__construct('mysql:host=loca...', 'root', 'moodle@123')
+#1 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/nomes.php on line 89
+[10-Sep-2019 14:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home2/seulug85/public_html/timoeventos/app/views/inclusao.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/timoeventos/app/views/inclusao.php on line 90

@@ -1,6 +1,0 @@
-/*<?php 
-    if(@$_GET['cadastra'] == 'sim') {
-?>*/
-
-Your Hash: e3dbadd8f9ef889809cae3418a06a456
-Your String: dd8bb5

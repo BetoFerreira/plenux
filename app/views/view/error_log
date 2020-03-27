@@ -1,0 +1,5 @@
+[12-Jul-2019 14:02:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/view/add_transacao.php on line 147
+[17-Jul-2019 13:11:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/view/add_transacao.php on line 147
+[18-Jul-2019 18:50:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timo_eventos/app/views/view/add_transacao.php on line 147
+[18-Jul-2019 19:46:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timo_eventos/app/views/view/add_transacao.php on line 147
+[25-Mar-2020 20:53:13 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/view/add_transacao.php on line 147
