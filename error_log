@@ -1,86 +1,133 @@
-[17-Jul-2019 13:58:38 UTC] PHP Warning:  include(autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 13:58:38 UTC] PHP Warning:  include(autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 13:58:38 UTC] PHP Warning:  include(): Failed opening 'autentica.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:00:15 UTC] PHP Warning:  include(autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:00:15 UTC] PHP Warning:  include(autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:00:15 UTC] PHP Warning:  include(): Failed opening 'autentica.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:15:31 UTC] PHP Warning:  include(app/views/autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:15:31 UTC] PHP Warning:  include(app/views/autentica.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:15:31 UTC] PHP Warning:  include(): Failed opening 'app/views/autentica.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/timo_eventos/index.php on line 37
-[17-Jul-2019 14:18:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:18:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:19:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:19:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:19:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:19:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:20:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:20:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:21:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:21:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:21:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:21:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:23:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:23:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:36:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[17-Jul-2019 14:38:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[17-Jul-2019 14:38:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:00:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 3
-[18-Jul-2019 13:00:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 146
-[18-Jul-2019 13:06:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 3
-[18-Jul-2019 13:06:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 146
-[18-Jul-2019 13:06:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 3
-[18-Jul-2019 13:06:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/index.php on line 146
-[18-Jul-2019 13:08:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[18-Jul-2019 13:08:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:08:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[18-Jul-2019 13:08:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:08:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[18-Jul-2019 13:08:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:09:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[18-Jul-2019 13:09:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:09:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 3
-[18-Jul-2019 13:09:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seulug85/public_html/timo_eventos/app/views/header.php:1) in /home2/seulug85/public_html/timo_eventos/app/views/login.php on line 146
-[18-Jul-2019 13:59:07 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 28
-[18-Jul-2019 13:59:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 29
-[18-Jul-2019 13:59:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 36
-[18-Jul-2019 19:43:29 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 28
-[18-Jul-2019 19:43:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 29
-[18-Jul-2019 19:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timo_eventos/app/views/navegar.php on line 36
-[18-Jul-2019 21:41:24 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 28
-[18-Jul-2019 21:41:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 29
-[18-Jul-2019 21:41:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 36
-[18-Jul-2019 21:45:15 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 28
-[18-Jul-2019 21:45:15 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 29
-[18-Jul-2019 21:45:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 36
-[18-Jul-2019 21:47:11 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 28
-[18-Jul-2019 21:47:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 29
-[18-Jul-2019 21:47:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 36
-[18-Jul-2019 21:49:30 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 28
-[18-Jul-2019 21:49:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 29
-[18-Jul-2019 21:49:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 36
-[18-Jul-2019 21:50:09 UTC] PHP Warning:  file(app/data/seq.fasta): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 28
-[18-Jul-2019 21:50:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 29
-[18-Jul-2019 21:50:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/timoeventos/app/views/navegar.php on line 36
-[16-Aug-2019 18:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/seulug85/public_html/timoeventos/app/views/blast.php:65
-Stack trace:
-#0 /home2/seulug85/public_html/timoeventos/index.php(33): include()
-#1 {main}
-  thrown in /home2/seulug85/public_html/timoeventos/app/views/blast.php on line 65
-[16-Aug-2019 18:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/seulug85/public_html/timoeventos/app/views/blast.php:65
-Stack trace:
-#0 /home2/seulug85/public_html/timoeventos/index.php(33): include()
-#1 {main}
-  thrown in /home2/seulug85/public_html/timoeventos/app/views/blast.php on line 65
-[16-Aug-2019 18:19:49 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/blast.php on line 2
-[16-Aug-2019 18:19:49 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/timoeventos/blast.php on line 2
-[16-Aug-2019 18:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conectar() in /home2/seulug85/public_html/timoeventos/blast.php:3
+[20-Feb-2020 13:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/seulug85/public_html/plenux/login.php:43
 Stack trace:
 #0 {main}
-  thrown in /home2/seulug85/public_html/timoeventos/blast.php on line 3
-[16-Aug-2019 18:19:51 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/timoeventos/blast.php on line 2
-[16-Aug-2019 18:19:51 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/timoeventos/blast.php on line 2
-[16-Aug-2019 18:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conectar() in /home2/seulug85/public_html/timoeventos/blast.php:3
+  thrown in /home2/seulug85/public_html/plenux/login.php on line 43
+[20-Feb-2020 13:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/seulug85/public_html/plenux/login.php:43
 Stack trace:
 #0 {main}
-  thrown in /home2/seulug85/public_html/timoeventos/blast.php on line 3
+  thrown in /home2/seulug85/public_html/plenux/login.php on line 43
+[20-Feb-2020 13:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/seulug85/public_html/plenux/login.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/login.php on line 43
+[28-Feb-2020 11:48:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home2/seulug85/public_html/plenux/esqueceu.php on line 7
+[28-Feb-2020 11:48:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected '6' (T_LNUMBER), expecting ',' or ')' in /home2/seulug85/public_html/plenux/esqueceu.php on line 7
+[28-Feb-2020 11:49:43 America/Fortaleza] PHP Warning:  Use of undefined constant ok - assumed 'ok' (this will throw an Error in a future version of PHP) in /home2/seulug85/public_html/plenux/esqueceu.php on line 4
+[28-Feb-2020 11:49:43 America/Fortaleza] PHP Warning:  require(../config.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 11:49:43 America/Fortaleza] PHP Warning:  require(../config.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 11:49:43 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 11:51:30 America/Fortaleza] PHP Warning:  require(../config.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 11:51:30 America/Fortaleza] PHP Warning:  require(../config.php): failed to open stream: No such file or directory in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 11:51:30 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 12:04:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home2/seulug85/public_html/plenux/esqueceu.php on line 8
+[28-Feb-2020 13:17:34 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 51
+[28-Feb-2020 13:29:20 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 51
+[28-Feb-2020 13:29:43 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 51
+[28-Feb-2020 13:32:09 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 51
+[28-Feb-2020 13:35:55 America/Fortaleza] PHP Fatal error:  Cannot use [] for reading in /home2/seulug85/public_html/plenux/esqueceu.php on line 51
+[28-Feb-2020 13:46:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function escape_string() on null in /home2/seulug85/public_html/plenux/esqueceu.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 6
+[28-Feb-2020 13:47:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/seulug85/public_html/plenux/esqueceu.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 14
+[28-Feb-2020 13:50:16 America/Fortaleza] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home2/seulug85/public_html/plenux/esqueceu.php on line 16
+[28-Feb-2020 13:55:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/seulug85/public_html/plenux/esqueceu.php on line 17
+[28-Feb-2020 13:56:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in /home2/seulug85/public_html/plenux/esqueceu.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 22
+[28-Feb-2020 13:57:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in /home2/seulug85/public_html/plenux/esqueceu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 13:58:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetch() in /home2/seulug85/public_html/plenux/esqueceu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:00:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/seulug85/public_html/plenux/esqueceu.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 21
+[28-Feb-2020 14:03:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/seulug85/public_html/plenux/esqueceu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:14:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home2/seulug85/public_html/plenux/esqueceu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:21:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:22:23 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:24:02 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/seulug85/public_html/plenux/esqueceu.php on line 23
+[28-Feb-2020 14:52:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected '*' in /home2/seulug85/public_html/plenux/esqueceu.php on line 36
+[28-Feb-2020 14:53:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 14:54:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home2/seulug85/public_html/plenux/esqueceu.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 36
+[28-Feb-2020 14:56:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:00:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:04:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:09:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:10:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:11:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:11:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 34
+[28-Feb-2020 15:15:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home2/seulug85/public_html/plenux/esqueceu.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 37
+[28-Feb-2020 15:17:51 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 42
+[28-Feb-2020 15:19:14 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 43
+[28-Feb-2020 15:19:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/seulug85/public_html/plenux/esqueceu.php:54
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 54
+[28-Feb-2020 15:20:45 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/seulug85/public_html/plenux/esqueceu.php on line 43
+[28-Feb-2020 15:29:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function escape_string() on null in /home2/seulug85/public_html/plenux/esqueceu.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 5
+[28-Feb-2020 15:30:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function escape_string() on null in /home2/seulug85/public_html/plenux/esqueceu.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 5
+[28-Feb-2020 15:30:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function escape_string() on null in /home2/seulug85/public_html/plenux/esqueceu.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 5
+[28-Feb-2020 15:35:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::escape_string() in /home2/seulug85/public_html/plenux/esqueceu.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/seulug85/public_html/plenux/esqueceu.php on line 6
+[24-Mar-2020 17:28:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/acheiemc/public_html/plenux/esqueceuasenha.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/acheiemc/public_html/plenux/esqueceuasenha.php on line 18
+[24-Mar-2020 18:04:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home4/acheiemc/public_html/plenux/esqueceuasenha.php on line 60
